@@ -1,12 +1,36 @@
-# React + Vite
+# 📋 React Todos App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18.0.0-blue)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-1.9.0-purple)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0.0-38B2AC)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-Currently, two official plugins are available:
+A simple and stylish **Todo List** application built with **React**, **Redux Toolkit**, and **Tailwind CSS**.  
+Easily add, toggle, and delete tasks — all with a smooth UI and responsive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+✅ Add new todos  
+✅ Mark todos as completed / pending  
+✅ Delete todos  
+✅ Global state management with Redux Toolkit  
+✅ Modern gradient UI with Tailwind CSS  
+✅ Responsive for desktop & mobile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+- **React** – Frontend UI library
+- **Redux Toolkit** – State management
+- **Tailwind CSS** – Styling
+- **Vite** – Fast development build tool
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/react-todos.git
+cd react-todos
